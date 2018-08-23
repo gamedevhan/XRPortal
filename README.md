@@ -11,4 +11,4 @@ To build:
 3. Switch build platform to Android in player settings.
 
 Application playthrough:
-https://youtu.be/RdangRVBiUI
+https://youtu.be/qu1o0rmgMjE
